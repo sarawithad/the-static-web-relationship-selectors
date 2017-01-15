@@ -1,0 +1,50 @@
+header {
+	border: 1px dashed black;
+}
+
+nav ul {
+	line-height: 1.5em;
+	list-style: none;
+}
+
+.disabled {
+	color:grey;
+}
+
+a.disabled {
+	color: purple;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.redbk {
+	background-color: red;
+}
+
+.bluebk {
+	background-color: blue;
+}
+
+.gparent {
+	border: 1px solid;
+	border-radius: 2em;
+}
+
+.active {
+	color: yellow;
+}
+
+.promo {
+	color: gold;
+	font-weight: bold;
+}
+
+.input {
+	input-height: 25px;
+}
